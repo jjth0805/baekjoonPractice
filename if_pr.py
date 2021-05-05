@@ -1,5 +1,5 @@
+### if
 def if_statement():
-  ## if
   # 1 부등호
   # A,B=input().split(" ")
   # a = int(A)
