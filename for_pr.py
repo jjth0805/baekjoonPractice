@@ -1,4 +1,4 @@
-## for statement
+### for statement
 def for_statement():
   ## 1 Times Table /九九
   # i = int(input())
